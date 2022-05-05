@@ -1,15 +1,17 @@
-<span id="a">root@shimron</span>:<span id="b">~</span><span id="c">$</span> cd Portfolio/<!-- kjsdfhkjdhsfkjdshfkj -->
-<span id="a">root@shimron</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->about.txt<br/>
+<span id="a">root@shimrxn_</span>:<span id="b">~</span><span id="c">$</span> cd Portfolio/<!-- kjsdfhkjdhsfkjdshfkj -->
+<span id="a">root@shimrxn_</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->about.txt<br/>
 
-Hello, world Im Shimron!.<br><!-- laglaglaglaglaglaglaglaglaglaglaglag -->
-I'm an Aspiring Network Engineer, who likes to explore and work with Various Technologies in the field.<br>
-I developed a Huge interest, in the field of IT at the age of 10 and work hard till now, to contribute something huge to the Tech Community.<br>
-My Area of Interest includes: Aritificial Intelligence, Block chain, Web3, Network Security, Reverse Engineering, and Malware Analysis.<br> 
-I create <a href="https://github.com/shimrxn?tab=repositories"> Projects </a> sometimes, to test my skills and to enhance them.<br>
-Here's my <a href="Resume.pdf">Resume</a>, if you wanna Hire me.<br><br>
-<span id="a">root@shimron</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->contact.txt<br/>
-Wanna Stay Connected? <br> # <a href="https://www.linkedin.com/in/shimron/">Linkedin</a> <br> # <a href="
-https://www.instagram.com/shimrxn/">Instagram</a> <br> 
-#Wait... <!-- slightdelayhere--> Feel free to reach me at<!-- longlonglongcomment --><a href="mailto:rozarioshimron@gmail.com"> rozarioshimron@gmail.com</a><br>
+Hello, World! Myself,Shimron Anthony Gerard Rozario.<br><!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+I'm an Aspiring IT enthusiast, who likes to explore Multiple Dimensions of Information Technology and to work with Various Technologies in the field.<br>
+I developed a Huge interest, in the field of Technology from the age of 7 and have been working hard till now, to contribute something huge to the IT Community.<br>
+My Area of Interest includes: Networking, Technical Writing, Information Security and Web Development, Reverse Engineering and WEB3.<br> 
+I was an Intern, at TalentPro India as a Network Engineer during December 2021,thereby performing analyses and learning about the computer networks.<br> 
+I create <a href="https://github.com/shimrxn?tab=repositories"> Projects </a> occasionally, to test my skills and to enhance them.<br>
+Here's my <a href="Resume.pdf">Resume</a>, if you wanna Hire/Stalk me.<br><br>
+<span id="a">root@shimrxn_</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->contact.txt<br/>
+Wanna Stay Connected? <br> # <a href="https://www.linkedin.com/in/shimronrozario/">Linkedin</a> <br> # <a href="
+https://www.instagram.com/shimrxn/">Instagram</a> <br> # <a href="https://twitter.com/rozarioshimron">Twitter</a><br>
+Oooh, Wait.. <!-- slightdelayhere--> Feel free to reach me at<!-- longlonglongcomment --><a href="mailto:rozarioshimron@gmail.com"> rozarioshimron@gmail.com</a><br>
 <span id="h"> Developer by Day. Hacker by Night. </span><br>
-<span id="a">root@shimron</span>:<span id="b">~</span><span id="c">$</span> exit</p>
+<span id="h"> Thanks for reading, See ya!. </span><br>
+<span id="a">root@shimrxn_</span>:<span id="b">~</span><span id="c">$</span> exit</p>
