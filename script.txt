@@ -12,6 +12,9 @@ Here's my <a href="Resume.pdf">Resume</a>, if you wanna Hire/Stalk me.<br><br>
 Wanna Stay Connected? <br> # <a href="https://www.linkedin.com/in/shimronrozario/">Linkedin</a> <br> # <a href="
 https://www.instagram.com/shimrxn/">Instagram</a> <br> # <a href="https://twitter.com/rozarioshimron">Twitter</a><br>
 Oooh, Wait.. <!-- slightdelayhere--> Feel free to reach me at<!-- longlonglongcomment --><a href="mailto:rozarioshimron@gmail.com"> rozarioshimron@gmail.com</a><br>
+ <a href="https://emojishistory.blogspot.com/">Emoji Blogspot</a><br>
+ <a href="https://docs.google.com/document/d/1-ZQalIj8whVhn6slzOHAfIiedEcpKUzRoZ_XdualOAc/edit?usp=sharing"> Internship Report </a> <br>
+ <a href="https://docs.google.com/document/d/1smwnZRfA9Zi1W0cJhBbmLQJntFLaX-F-1uHqXQyYueA/edit?usp=sharing"> Project Documentation </a> <br>
 <span id="h"> Developer by Day. Hacker by Night. </span><br>
 <span id="h"> Thanks for reading, See ya!. </span><br>
 <span id="a">root@shimrxn_</span>:<span id="b">~</span><span id="c">$</span> exit</p>
